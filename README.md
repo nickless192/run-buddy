@@ -17,3 +17,5 @@ https://nickless192.github.io/run-buddy
 ## Contribution
 
 Made with ❤️ by Omar Rodriguez
+
+### ©️2019 Run Buddy, Inc
